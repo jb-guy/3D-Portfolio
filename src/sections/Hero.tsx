@@ -1,7 +1,7 @@
 import HeroText from "../components/HeroText"
 import ParalaxBackground from "../components/ParalaxBackground"
 import {Canvas, useFrame} from '@react-three/fiber'
-import { Float, OrbitControls } from '@react-three/drei'
+import { Float } from '@react-three/drei'
 import { Astronaut } from "../components/Astronaut"
 import { useMediaQuery } from "react-responsive"
 import { easing } from "maath"
