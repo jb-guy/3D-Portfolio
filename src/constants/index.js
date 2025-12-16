@@ -177,6 +177,37 @@ export const myProjects = [
         path: "/assets/logos/emailjs.svg",
       },
     ],
+  },
+  {
+    id: 6,
+    title: "Video Game landing Page copy",
+    description:
+      "Recreation of Radiant.gg video game landing page",
+    subDescription: [
+      "Complex gsap animations to create an engaging landing page for a video game.",
+      "Responsive design for optimal viewing on all devices.",
+
+    ],
+    href: "https://zentrycopy.pages.dev/",
+    logo: "",
+    image: "/assets/projects/zentry.png",
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "GSAP",
+        path: "/assets/logos/gsap.svg",
+      },
+    ],
   }
 ];
 
