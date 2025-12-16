@@ -141,6 +141,42 @@ export const myProjects = [
         path: "/assets/logos/websocket.svg",
       },
     ],
+  },
+  {
+    id: 5,
+    title: "Artiste Portfolio Website",
+    description:
+      "Beautiful and animated landing page for my mother, an artist and painter in Corse.",
+    subDescription: [
+      "Smooth animation and transitions to showcase her artworks in an elegant manner. using gsap",
+      "Responsive design ensuring optimal viewing experience across devices.",
+      "Built with modern web technologies for performance and maintainability."
+    ],
+    href: "https://nathalieguy.pages.dev/",
+    logo: "",
+    image: "/assets/projects/artist.png",
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwind.svg",
+      },
+      {
+        id: 3,
+        name: "GSAP",
+        path: "/assets/logos/gsap.svg",
+      },
+      {
+        id: 4,
+        name: "emailJS",
+        path: "/assets/logos/emailjs.svg",
+      },
+    ],
   }
 ];
 
